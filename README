@@ -1,0 +1,2 @@
+echo 1020 > /sys/class/gpio/unexport
+/home/chip/.rbenv/shims/bundle exec /home/chip/.rbenv/shims/ruby myapp.rb
